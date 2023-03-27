@@ -8,4 +8,5 @@ Teste de repositorio git
 Nova atualização
 
 Gostou do curso ? Quer mais ? Ajuda com uma doação, até um cafe é válido !
-Não aguento mais 
+Não aguento mais
+Adicionado nova linha aqui 
