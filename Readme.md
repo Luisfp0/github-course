@@ -1,12 +1,13 @@
-Mais um teste 
-Teste Git
-Sla123
 
-Ta errado isso aq
-Mais uma alteração
+
+
+Para doações:
+pix: (99) 9 9999-9999
+
+
 Teste de repositorio git
-Nova atualização
+
 
 Gostou do curso ? Quer mais ? Ajuda com uma doação, até um cafe é válido !
-Não aguento mais
-Adicionado nova linha aqui 
+
+
